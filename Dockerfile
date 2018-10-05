@@ -1,4 +1,4 @@
-FROM ayyazzafar/java
+FROM ayyazzafar/docker-java
 
 LABEL MAINTAINER="Ayyaz Zafarr <contact@ayyaz.io>"
 
