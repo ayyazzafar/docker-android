@@ -2,7 +2,7 @@ FROM ayyazzafar/docker-java
 
 LABEL MAINTAINER="Ayyaz Zafarr <contact@ayyaz.io>"
 
-ENV ANDROID_SDK_URL="https://dl.google.com/android/repository/android-sdk-linux_x86-1.6_r1.tgz" \
+ENV ANDROID_SDK_URL="https://dl.google.com/android/repository/sdk-tools-linux-4333796.zip" \
     ANDROID_BUILD_TOOLS_VERSION=28.0.3 \
     ANT_HOME="/usr/share/ant" \
     MAVEN_HOME="/usr/share/maven" \
